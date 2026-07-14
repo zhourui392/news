@@ -297,5 +297,5 @@
 
 ## 文档与 Git 操作
 
-- **文档绝对路径：** `/home/ubuntu/news-reports/news/reports/2026/07-13/2026-07-13-7day-outlook.md`
+- **文档绝对路径：** `/home/ubuntu/news-reports/news/reports/2026/07/13/2026-07-13-7day-outlook.md`
 - Git commit 与 push 状态见下方操作记录。

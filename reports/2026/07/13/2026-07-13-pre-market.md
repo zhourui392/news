@@ -121,6 +121,6 @@ A股上周五大幅回调（上证-1%、创业板-4.37%），显示亚洲资金�
 
 ## 文档与Git操作结果
 
-- **文档绝对路径**：`/home/ubuntu/news-reports/news/reports/2026/07-13/2026-07-13-pre-market.md`
+- **文档绝对路径**：`/home/ubuntu/news-reports/news/reports/2026/07/13/2026-07-13-pre-market.md`
 - **Git commit**：✅ 成功（或待确认）
 - **Git push**：✅ 成功

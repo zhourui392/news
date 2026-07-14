@@ -136,6 +136,6 @@
 
 ---
 
-**文档绝对路径**: `/home/ubuntu/news-reports/news/reports/2026/07-02/2026-07-02-pre-market.md`
+**文档绝对路径**: `/home/ubuntu/news-reports/news/reports/2026/07/02/2026-07-02-pre-market.md`
 **Git commit**: 待执行
 **Git push**: 待执行

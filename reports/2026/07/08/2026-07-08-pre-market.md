@@ -122,6 +122,6 @@
 
 ## 文档与 Git 操作
 
-- **文档路径**：`/home/ubuntu/news-reports/news/reports/2026/07-08/2026-07-08-pre-market.md`
+- **文档路径**：`/home/ubuntu/news-reports/news/reports/2026/07/08/2026-07-08-pre-market.md`
 - **Git Commit**：待执行
 - **Git Push**：待执行

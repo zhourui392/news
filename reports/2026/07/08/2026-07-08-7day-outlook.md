@@ -274,5 +274,5 @@
 
 ---
 
-*文档路径：`/home/ubuntu/news-reports/news/reports/2026/07-08/2026-07-08-7day-outlook.md`*
+*文档路径：`/home/ubuntu/news-reports/news/reports/2026/07/08/2026-07-08-7day-outlook.md`*
 *生成时间：2026-07-08 21:00 UTC*
